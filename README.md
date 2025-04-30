@@ -68,7 +68,7 @@
 ## GitHub Statistics
 
 <div align="center">
-   <img src="https://github-readme-stats-dusky-nine-11.vercel.app/api/top-langs/?username=ntvu19&layout=compact&count_private=true&hide=html,handlebars,scss,css" alt="Thanh Vu">
+   <img src="https://github-readme-stats-dusky-nine-11.vercel.app/api/top-langs/?username=ntvu19&layout=compact&count_private=true&hide=html,handlebars,scss,css&exclude_repo=github-readme-stats" alt="Thanh Vu">
    <img src="https://github-readme-stats-dusky-nine-11.vercel.app/api?username=ntvu19&count_private=true" alt="Thanh Vu">
    </br>
    </br>
