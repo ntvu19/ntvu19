@@ -2,20 +2,23 @@
    I'm Thanh Vu!
 </h1>
 
-## I'm C++ developer
-- 🔭 I’m currently working on ***Computer Vision*** and ***Software Development (Back-end)***
-- 🎯 Future Goals: Good at back-end development.
+## I'm a System Engineer
+- 🔭 I’m currently working on ***Computer Vision*** and ***Software Development (System Application)***
+- 🎯 Future Goals: Build my own modules to optmize workspace.
 
 ## My current pet projects are about
-- An ICAP client project
 - A streamming platform
-- A QR generator/reader
 - An AI integrated project
 - A cloud storage server
 - A lightweight mock server
 - A multi-media database (like image database)
+
+<!--
+- An ICAP client project
+- A QR generator/reader
 - Mini work-logging application
 - Build some mini game applications using Cocos2d-x (C++)
+-->
 
 ## Technical Skills
 <!-- <div align="center"> -->
