@@ -4,7 +4,7 @@
 
 ## I'm a System Engineer
 - 🔭 I’m currently working on ***Computer Vision*** and ***Software Development (System Application)***
-- 🎯 Future Goals: Build my own modules to optmize workspace.
+- 🎯 Future Goals: Build my own modules to optimize workspace.
 
 ## My current pet projects are about
 - A streamming platform
